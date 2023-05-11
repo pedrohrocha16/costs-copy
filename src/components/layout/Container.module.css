@@ -1,0 +1,10 @@
+.container {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   margin: 0 auto;
+   width: 1200px;
+}
+.minHeight{
+   min-height: 75vh;
+}

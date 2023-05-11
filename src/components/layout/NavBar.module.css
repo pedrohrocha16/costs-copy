@@ -1,0 +1,24 @@
+.navbar {
+   background: #222;
+   display: flex;
+   justify-content: space-between;
+   padding: 1em;
+}
+.logo{
+   height: 5vh;
+}
+.list {
+   align-items: center;
+   display: flex;
+   list-style: none;
+}
+.item {
+   margin-right: 1em;
+}
+.item a {
+   color: white;
+   text-decoration: none;
+}
+.item a:hover {
+   color: #ffbb33;
+}
