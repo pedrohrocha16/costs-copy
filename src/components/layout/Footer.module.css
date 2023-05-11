@@ -1,0 +1,25 @@
+.footer {
+   align-items: center;
+   background: #222;
+   color: white;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   height: 8rem;
+}
+.footerList {
+   display: flex;
+   list-style: none;
+}
+.footerList li {
+   cursor: pointer;
+   font-size: 22px;
+   margin: 0 0.5rem 0.8rem 0.5rem;
+}
+.footerList li:hover {
+   color: #eebb33;
+}
+.copyRight span {
+   color: #eebb33;
+   font-weight: bold;
+}

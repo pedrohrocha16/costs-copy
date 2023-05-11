@@ -4,6 +4,6 @@
     padding: 0;
 }
 html, body, #root {
-  background: whitesmoke;
+  background: rgb(221, 221, 221);
   height: 100%;
 }
