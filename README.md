@@ -1,8 +1,9 @@
-## <h1><em>Olá pessoas!</em>😁</h1> 
+<h1><em>Olá pessoas!</em>😁</h1> 
 
 
 <h3>Projeto que estou desenvolvendo com os conhecimentos adquiridos no curso de React JS com o professor Matheus Battisti.<br><br> 🌟 Esse projeto será estilizado e modificado da minha forma, pois, estarei usando como base o projeto que está sendo desenvolvido no curso e que também servirá para fixar todo o meu aprendizado.<h3><br>
 
+<p>Para rodar a aplicação, será necessário abrir dois terminais. No primeiro iremos usar o comando (npm start) para iniciar o Front End e no segundo iremos utilizar o comando (npm run backend) para inicializar o "banco de dados".</p>
 
 # 
 
