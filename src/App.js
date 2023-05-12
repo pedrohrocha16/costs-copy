@@ -14,15 +14,15 @@ function App() {
   return (
     <Router>
       <NavBar />
-      <Container customClass="minHeight">
-        <Routes>
-          <Route path='/' element={<Home />} />
-          <Route path='/projects' element={<Projects />} />
-          <Route path='/company' element={<Company />} />
-          <Route path='/contact' element={<Contact />} />
-          <Route path='/newproject' element={<NewProject />} />
-        </Routes>
-      </Container>
+        <Container customClass="minHeight">
+          <Routes>
+            <Route path='/' element={<Home />} />
+            <Route path='/projects' element={<Projects />} />
+            <Route path='/company' element={<Company />} />
+            <Route path='/contact' element={<Contact />} />
+            <Route path='/newproject' element={<NewProject />} />
+          </Routes>
+        </Container>
       <Footer />
     </Router>
   );
