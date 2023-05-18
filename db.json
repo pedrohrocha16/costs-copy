@@ -1,21 +1,21 @@
 {
-   "projects": [],
-   "categories": [
-      {
-         "id": 1,
-         "name": "Infra"
-      },
-      {
-         "id": 2,
-         "name": "Desenvolvimento"
-      },
-      {
-         "id": 3,
-         "name": "Design"
-      },
-      {
-         "id": 4,
-         "name": "Planejamento"
-      }
-   ]
+  "projects": [],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Contratos"
+    },
+    {
+      "id": 3,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 4,
+      "name": "Design"
+    }
+  ]
 }
