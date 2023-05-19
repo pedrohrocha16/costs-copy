@@ -55,7 +55,7 @@ const [project, setProject] = useState (projectData || {})
          <Input
             text="Valor do orçamento"
             type="number"
-            name='Budget'
+            name='budget'
             placeholder="Valor"
             handleOnChange={handleChange}
             value={project.budget}

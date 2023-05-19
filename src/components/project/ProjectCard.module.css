@@ -1,0 +1,71 @@
+.project_card {
+   border: 1px solid #7a7a7a;
+   border-radius: 5px;
+   margin: 0.5%;
+   padding: 1em;
+   width: 24%;
+}
+.project_card h4 {
+   background-color: #222;
+   color: #ffbb33;
+   font-size: 1rem;
+   padding: 2rem;
+   margin-bottom: 1.3rem;
+}
+.project_card p {
+   color: #7a7a7a;
+   margin-bottom: 1rem;
+}
+.project_card p span {
+   font-weight: bold;
+}
+.category_text {
+   align-items: center;
+   display: flex;
+}
+.category_text span {
+   background-color: #ccc;
+   border-radius: 50%;
+   display: block;
+   height: 12px;
+   margin-right: 5px;
+   width: 12px;
+}
+.category_text .infra {
+   background-color: rgb(255, 111, 243);
+}
+.category_text .contratos {
+   background-color: rgb(0, 153, 255);
+}
+.category_text .desenvolvimento {
+   background-color: rgb(0, 167, 22);
+}
+.category_text .design {
+   background-color: rgb(221, 207, 6);
+}
+.project_card_actions {
+   display: flex;
+   margin-top: 1.2em;
+}
+.project_card_actions a,
+.project_card_actions button {
+   align-items: center;
+   background-color: #fff;
+   border: 1px solid #222;
+   color: #222;
+   cursor: pointer;
+   display: flex;
+   font-size: 0.865rem;
+   justify-content: center;
+   margin-right: 1em;
+   padding: 1em;
+   text-decoration: none;
+   transition: 0.5s;
+}
+.project_card_actions svg {
+   margin-right: .5em;
+}
+.project_card_actions a:hover, button:hover {
+   background-color: #222;
+   color: #ffbb33;
+} 
